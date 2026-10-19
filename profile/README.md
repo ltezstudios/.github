@@ -6,8 +6,6 @@
 
 </div>
 
-<br>
-
 ## What We're About
 
 An independent creative studio working across software and the arts. ✨
@@ -16,11 +14,9 @@ We build useful tools, try the unexpected, and make things simply because they'r
 
 Founded by [lte_z](https://github.com/lte-z).
 
-<br>
-
 <details>
 
-<summary>🪄 Curious what this prints?</summary>
+<summary>🪄 Curious what the banner's code prints?</summary>
 
 ```text
 💻 software · 💡 innovation · 🛠️ projects · 🚀 exploration
